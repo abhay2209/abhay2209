@@ -7,7 +7,7 @@ Welcome to my tech haven! I'm a passionate developer and explorer of various tec
 - Frontend Development: React, Angular, TypeScript, JavaScript
 - Backend Development: Node.js, Java Spring Boot, Play Framework
 - Databases: PostgreSQL, MySQL, CassandraDB, Microsoft SQL, ElephantSQL
-- Hosting: Netlify, Google Cloud Platform
+- Hosting: Netlify, Google Cloud Platform, Heroku
 - Programming Languages: Java, Python, C++, Scala
 - Data Science: Data Analysis, Machine Learning, Natural Language Processing, Data Visualization
 - ...and more!
