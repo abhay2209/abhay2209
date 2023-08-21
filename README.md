@@ -4,39 +4,42 @@ Welcome to my tech haven! I'm a passionate developer and explorer of various tec
 
 ## 💡 What I Know
 
-- **Frontend Development:**
-   [![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-   [![Angular](https://img.shields.io/badge/-Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-   [![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-   [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### Frontend Development:
+[![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-- **Backend Development:**
-   [![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-   [![Java Spring Boot](https://img.shields.io/badge/-Java%20Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-   [![Play Framework](https://img.shields.io/badge/-Play%20Framework-%23EF1C35?style=for-the-badge&logo=play&logoColor=white)](https://www.playframework.com/)
+### Backend Development:
+[![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Java Spring Boot](https://img.shields.io/badge/-Java%20Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Play Framework](https://img.shields.io/badge/-Play%20Framework-%23EF1C35?style=for-the-badge&logo=play&logoColor=white)](https://www.playframework.com/)
 
-- **Databases:**
-   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-   [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-   [![CassandraDB](https://img.shields.io/badge/-CassandraDB-%232B315E?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/)
-   [![Microsoft SQL](https://img.shields.io/badge/-Microsoft%20SQL-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-   [![ElephantSQL](https://img.shields.io/badge/-ElephantSQL-%23FF6F3A?style=for-the-badge&logo=elephantsql&logoColor=white)](https://www.elephantsql.com/)
+### Databases:
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![CassandraDB](https://img.shields.io/badge/-CassandraDB-%232B315E?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/)
+[![Microsoft SQL](https://img.shields.io/badge/-Microsoft%20SQL-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![ElephantSQL](https://img.shields.io/badge/-ElephantSQL-%23FF6F3A?style=for-the-badge&logo=elephantsql&logoColor=white)](https://www.elephantsql.com/)
 
-- **Hosting:**
-   [![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-   [![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-   [![Heroku](https://img.shields.io/badge/-Heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+### Hosting:
+[![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Heroku](https://img.shields.io/badge/-Heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+
+### Programming Languages:
+[![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Scala](https://img.shields.io/badge/-Scala-%23DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
+
+### GUI Development:
+[![PyQt](https://img.shields.io/badge/-PyQt-%2304679E?style=for-the-badge&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/intro)
+
+
+### Data Science:
   
-- **Programming Languages:**
-   [![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-   [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-   [![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-   [![Scala](https://img.shields.io/badge/-Scala-%23DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
-
-- **GUI Development:**
-   [![PyQt](https://img.shields.io/badge/-PyQt-%2304679E?style=for-the-badge&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/intro)
-
-- **Data Science:**
    Data Analysis
    Machine Learning
    Natural Language Processing
